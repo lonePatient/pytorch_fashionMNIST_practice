@@ -1,2 +1,2 @@
 # pytorch_fashionMNIST_practice
-使用pytorch进行图像训练的模板
+pytorch案例
